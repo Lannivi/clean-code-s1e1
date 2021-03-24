@@ -42,12 +42,12 @@ ul {
   padding: 0px;
 }
 
-li,
+li, /* переносы автоматически добавлены при первом сохранении css в VS Code */
 h3 {
   list-style: none;
 }
 
-input,
+input, /* переносы автоматически добавлены при первом сохранении css в VS Code */
 button {
   outline: none;
 }
