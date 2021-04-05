@@ -109,7 +109,7 @@ h3 {
 }
 
 .add__task {
-  width: 318px;
+  width: 333px;
 }
 
 p > button:hover {
@@ -121,6 +121,9 @@ li {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 li > * {
